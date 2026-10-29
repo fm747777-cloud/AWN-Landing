@@ -1,0 +1,6 @@
+{
+  "name": "AWN Business Services | عون لخدمات الأعمال",
+  "description": "منصة عون لخدمات الأعمال في المملكة العربية السعودية — تأسيس الأعمال، الالتزام بالمتطلبات الحكومية ومتطلبات العاملين، وإدارة الموارد البشرية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
